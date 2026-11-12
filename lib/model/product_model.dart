@@ -1,0 +1,8 @@
+class ProductModel{
+  final String img ;
+  final String name ;
+  final String price ;
+
+  new({required this.img, required this.name, required this.price}); 
+
+}
